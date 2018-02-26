@@ -2,6 +2,7 @@
 train_file_path = './data/train_20171215.txt'
 testA_file_path = './data/test_A_20171225.txt'
 testB_file_path = './data/test_B_20171225.txt'
+answerA_file_path = './data/answer_A_20180225.txt'
 # data processed
 train_fix_file_path = './data/train_fix.csv'
 test_fix_file_path = './data/test_fix.csv'
